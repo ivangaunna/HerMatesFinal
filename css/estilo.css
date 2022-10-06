@@ -32,7 +32,7 @@ main {
   main .encuadrar, main .encuadrar2 {
     border-radius: 5px; }
   main .index-text {
-    background-color: whitesmoke;
+    background-color: seashell;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
     font-size: 1rem; }
@@ -123,7 +123,7 @@ footer .copyright {
   padding-top: 1rem; }
 
 .encuadrar2 {
-  background-color: whitesmoke;
+  background-color: seashell;
   margin: 2rem;
   padding: 2rem; }
 
@@ -208,7 +208,7 @@ h4 {
 .titulo {
   color: #2e2e2e;
   text-align: center;
-  background-color: whitesmoke;
+  background-color: seashell;
   width: 290px;
   margin: auto;
   margin-bottom: 1rem; }
@@ -221,13 +221,13 @@ h4 {
   .titulo {
     color: #2e2e2e;
     text-align: center;
-    background-color: whitesmoke;
+    background-color: seashell;
     width: 100%;
     margin: auto;
     margin-bottom: 1rem; } }
 
 .encuadrar2 {
-  background-color: whitesmoke;
+  background-color: seashell;
   margin: 2rem;
   padding: 2rem; }
 
